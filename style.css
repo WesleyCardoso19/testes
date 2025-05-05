@@ -1,0 +1,27 @@
+@charset ;
+#forms {
+    
+    height: 20px;
+    color: #000000;
+    text-align: center;
+}
+
+#form{
+    background-color: rgb(141, 141, 141);
+    text-align: center;
+    
+}
+#img{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+#foto{
+    
+}
+#cafe{
+    background-color: black;
+    text-align: center;
+}
+#lg{
+    text-align: left;
+}
